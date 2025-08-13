@@ -1,7 +1,7 @@
 # logica-programacao
 curso de logica de programação em python
 
-aulas:
+##aulas:
 
 aula 1 
 aula 2 
